@@ -10,12 +10,7 @@ public class SpringBootProjectApplication {
 	
 		System.out.println("Hello World");
 		
-		int a = 10;
-		int b =10;
-		int c = a+b;
-		
-		
-		System.out.println("Addition =" + c);
+		S.O.P ("Learning new things about Git hub")
 	}
 
 }
